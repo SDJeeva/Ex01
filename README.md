@@ -28,7 +28,7 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-[ipconfig](https://user-images.githubusercontent.com/127816889/226960519-fcbf6680-510a-41be-adf0-85c2af66c331.png)
+![ipconfig](https://user-images.githubusercontent.com/127816889/226973031-b7d0ba5a-5ad4-4f51-b15c-e264a75e33a7.png)
 ![all 1](https://user-images.githubusercontent.com/127816889/226960198-4b5d2ab4-917d-4441-b0cc-abea65c73da0.png)!
 ![getmac](https://user-images.githubusercontent.com/127816889/226960249-627ea596-0722-4ca0-8b22-90d31ae690f9.png)
 ![hostname](https://user-images.githubusercontent.com/127816889/226960419-64e22007-1084-4020-be7a-6bee2d1f7a8c.png)
